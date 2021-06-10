@@ -7,8 +7,6 @@ import re
 import sys
 
 # Complete the plusMinus function below.
-
-
 def plusMinus(arr):
     p, n, z = 0, 0, 0
 
